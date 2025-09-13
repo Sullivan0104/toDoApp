@@ -3,7 +3,7 @@ Very basic CML to-do-app. Prints a stored list of lines from a .txt file. Wraps 
 # Features
 | Features  
 | ------------- |
-| Add, Remove indivdual lines, or Clear the entire list. |
+| Add, Remove individual lines, or Clear the entire list. |
 | Prints a stored list of lines from a .txt file.  |
 | Wraps longer sentences. |
 | Refreshes terminal automatically to update the printout. |
