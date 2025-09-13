@@ -1,5 +1,5 @@
 # Simple To-Do-App
-Very basic CML to-do-app. Prints a stored list of lines from a .txt file. Wraps longer sentences. Refreshes ternminal automatcially to update the printout. Colored text. 
+Very basic CML to-do-app.
 # Features
 | Features  
 | ------------- |
